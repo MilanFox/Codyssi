@@ -1,0 +1,9 @@
+{
+  "author": "Milan Fox",
+  "name": "codyssi",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.9.0"
+  }
+}
