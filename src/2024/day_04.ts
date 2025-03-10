@@ -1,10 +1,5 @@
 import { readFileSync } from 'node:fs';
 
-const connections = readFileSync('input.txt', 'utf-8').trim().split('\n').map(x => x.split(' <-> '));
-
-const numberOfUniqueDestinations = new Set(connections.flat()).size;
-console.log(`Part 1: ${numberOfUniqueDestinations}`);
-
 class Location {
   constructor(name: string) {
     this.name = name;
@@ -49,7 +44,11 @@ class Map {
   };
 }
 
+const connections = readFileSync('input.txt', 'utf-8').trim().split('\n').map(x => x.split(' <-> '));
 const map = new Map(connections);
+
+const numberOfUniqueDestinations = new Set(connections.flat()).size;
+console.log(`Part 1: ${numberOfUniqueDestinations}`);
 
 const startNode = map.locations['STT'];
 const reachableLocations = map.run(startNode, 3).visited.size;

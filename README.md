@@ -9,3 +9,10 @@ To run the solutions, follow these steps:
 This repository is for educational purposes and to share my approach to solving the Codyssi
 challenges. Feel free to explore, modify, and use any code you find here for your own learning and
 projects.
+
+## 🔬 [2024](https://www.codyssi.com/challenge_set_1) ![](https://progress-bar.xyz/12?scale=12&suffix=/12)
+
+[![](https://img.shields.io/badge/Quest_01-★★★-gold)](https://github.com/MilanFox/Codyssi/blob/main/src/2024/day_01.ts)
+[![](https://img.shields.io/badge/Quest_02-★★★-gold)](https://github.com/MilanFox/Codyssi/blob/main/src/2024/day_02.ts)
+[![](https://img.shields.io/badge/Quest_03-★★★-gold)](https://github.com/MilanFox/Codyssi/blob/main/src/2024/day_03.ts)
+[![](https://img.shields.io/badge/Quest_04-★★★-gold)](https://github.com/MilanFox/Codyssi/blob/main/src/2024/day_04.ts)
