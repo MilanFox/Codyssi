@@ -28,25 +28,32 @@ class Map {
 
   locations: Record<string, Location> = {};
 
-  findReachableLocations = (start: Location, range: number) => {
+  run = (start: Location, range: number) => {
     const visited = new Set([start.name]);
-    const queue: Array<[Location, number]> = [[start, range]];
+    const distance: Record<string, number> = { [start.name]: 0 };
+    const queue: Array<[Location, number]> = [[start, 1]];
 
     while (queue.length) {
       const [cur, localRange] = queue.shift();
-      if (localRange === 0) continue;
+      if (localRange >= range) continue;
       for (const loc of this.locations[cur.name].neighbors) {
         if (!visited.has(loc.name)) {
           visited.add(loc.name);
-          queue.push([loc, localRange - 1]);
+          distance[loc.name] = localRange;
+          queue.push([loc, localRange + 1]);
         }
       }
     }
 
-    return visited.size;
+    return { visited, distance };
   };
 }
 
 const map = new Map(connections);
 
-console.log(`Part 2: ${map.findReachableLocations(map.locations['STT'], 3)}`);
+const startNode = map.locations['STT'];
+const reachableLocations = map.run(startNode, 3).visited.size;
+console.log(`Part 2: ${reachableLocations}`);
+
+const totalTime = Object.values(map.run(startNode, Infinity).distance).reduce((acc, cur) => acc + cur, 0);
+console.log(`Part 3: ${totalTime}`);
