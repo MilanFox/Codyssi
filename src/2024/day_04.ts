@@ -23,7 +23,7 @@ class Map {
 
   locations: Record<string, Location> = {};
 
-  run = (start: Location, range: number) => {
+  run(start: Location, range: number) {
     const visited = new Set([start.name]);
     const distance: Record<string, number> = { [start.name]: 0 };
     const queue: Array<[Location, number]> = [[start, 1]];
