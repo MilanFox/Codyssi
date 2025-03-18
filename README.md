@@ -17,10 +17,10 @@ projects.
 [![](https://img.shields.io/badge/Day_03-★★★-gold)](https://github.com/MilanFox/Codyssi/blob/main/src/2024/day_03.ts)
 [![](https://img.shields.io/badge/Day_04-★★★-gold)](https://github.com/MilanFox/Codyssi/blob/main/src/2024/day_04.ts)
 
-## 🔱 [2025](https://www.codyssi.com/challenge_set_2) ![](https://progress-bar.xyz/3?scale=36&suffix=/36)
+## 🔱 [2025](https://www.codyssi.com/challenge_set_2) ![](https://progress-bar.xyz/6?scale=36&suffix=/36)
 
 [![](https://img.shields.io/badge/Day_01-★★★-gold)](https://github.com/MilanFox/Codyssi/blob/main/src/2025/day_01.ts)
-[![](https://img.shields.io/badge/Day_02-☆☆☆-black)](https://github.com/MilanFox/Codyssi/blob/main/src/2025/day_02.ts)
+[![](https://img.shields.io/badge/Day_02-★★★-gold)](https://github.com/MilanFox/Codyssi/blob/main/src/2025/day_02.ts)
 [![](https://img.shields.io/badge/Day_03-☆☆☆-black)](https://github.com/MilanFox/Codyssi/blob/main/src/2025/day_03.ts)
 [![](https://img.shields.io/badge/Day_04-☆☆☆-black)](https://github.com/MilanFox/Codyssi/blob/main/src/2025/day_04.ts)
 [![](https://img.shields.io/badge/Day_05-☆☆☆-black)](https://github.com/MilanFox/Codyssi/blob/main/src/2025/day_05.ts)
