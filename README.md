@@ -17,12 +17,12 @@ projects.
 [![](https://img.shields.io/badge/Day_03-★★★-gold)](https://github.com/MilanFox/Codyssi/blob/main/src/2024/day_03.ts)
 [![](https://img.shields.io/badge/Day_04-★★★-gold)](https://github.com/MilanFox/Codyssi/blob/main/src/2024/day_04.ts)
 
-## 🔱 [2025](https://www.codyssi.com/challenge_set_2) ![](https://progress-bar.xyz/9?scale=36&suffix=/36)
+## 🔱 [2025](https://www.codyssi.com/challenge_set_2) ![](https://progress-bar.xyz/12?scale=36&suffix=/36)
 
 [![](https://img.shields.io/badge/Day_01-★★★-gold)](https://github.com/MilanFox/Codyssi/blob/main/src/2025/day_01.ts)
 [![](https://img.shields.io/badge/Day_02-★★★-gold)](https://github.com/MilanFox/Codyssi/blob/main/src/2025/day_02.ts)
 [![](https://img.shields.io/badge/Day_03-★★★-gold)](https://github.com/MilanFox/Codyssi/blob/main/src/2025/day_03.ts)
-[![](https://img.shields.io/badge/Day_04-☆☆☆-black)](https://github.com/MilanFox/Codyssi/blob/main/src/2025/day_04.ts)
+[![](https://img.shields.io/badge/Day_04-★★★-gold)](https://github.com/MilanFox/Codyssi/blob/main/src/2025/day_04.ts)
 [![](https://img.shields.io/badge/Day_05-☆☆☆-black)](https://github.com/MilanFox/Codyssi/blob/main/src/2025/day_05.ts)
 [![](https://img.shields.io/badge/Day_06-☆☆☆-black)](https://github.com/MilanFox/Codyssi/blob/main/src/2025/day_06.ts)
 [![](https://img.shields.io/badge/Day_07-☆☆☆-black)](https://github.com/MilanFox/Codyssi/blob/main/src/2025/day_07.ts)
@@ -30,4 +30,5 @@ projects.
 [![](https://img.shields.io/badge/Day_09-☆☆☆-black)](https://github.com/MilanFox/Codyssi/blob/main/src/2025/day_09.ts)
 [![](https://img.shields.io/badge/Day_10-☆☆☆-black)](https://github.com/MilanFox/Codyssi/blob/main/src/2025/day_10.ts)
 [![](https://img.shields.io/badge/Day_11-☆☆☆-black)](https://github.com/MilanFox/Codyssi/blob/main/src/2025/day_11.ts)
-[![](https://img.shields.io/badge/Day_12-☆☆☆-black)](https://github.com/MilanFox/Codyssi/blob/main/src/2025/day_12.ts) 
+[![](https://img.shields.io/badge/Day_12-☆☆☆-black)](https://github.com/MilanFox/Codyssi/blob/main/src/2025/day_12.ts)
+[![](https://img.shields.io/badge/Day_13-☆☆☆-black)](https://github.com/MilanFox/Codyssi/blob/main/src/2025/day_13.ts) 
